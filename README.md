@@ -1,1 +1,3 @@
-Francisco Morales 23310107
+# Minesweeper project
+
+It was the final project in my Object-oriented programming subject
